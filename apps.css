@@ -1,0 +1,57 @@
+body {
+    margin: auto;
+}
+
+header {
+    border-color: blueviolet;
+    background-color: red;
+}
+
+.hero {
+    height: 500px;
+}
+
+.hero,
+.hero p {
+    background-color: #1F2937;
+    font-size: 48px;
+    color: #F9FAF9;
+}
+
+
+.image-collection-section {
+    background-color: white:
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.image-collection-homepage {
+    border-style: solid;
+
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+.image-collection-homepage div {
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #3882F6;
+    width: 250px;
+    height: 250px;
+}
+
+.quote-section {
+    height: 500px;
+    background-color: #E5E7EB;
+    margin: auto;
+}
+
+footer {
+    background-color: #1F2937;
+    font-size: 48px;
+    color: #F9FAF9;
+}
+
